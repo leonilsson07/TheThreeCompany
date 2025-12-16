@@ -9,7 +9,7 @@ This Cisco Packet Tracer project simulates three companies: **Microsoft**, **Ado
 ---
 
 ## Network Topology
-![Network Topology](.topology.png)  
+![Network Topology](topology.png)  
 
 The topology shows the network layout for all three companies, including switches, routers, and end devices.
 
@@ -71,4 +71,5 @@ The topology shows the network layout for all three companies, including switche
 ---
 
 **Note:** This project was created by Leo Nilsson.  
+
 
